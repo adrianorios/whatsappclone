@@ -1,6 +1,6 @@
 # whatsappclone
 
-A new Flutter project.
+Projeto exemplo para testes de conhecimentos =)
 
 ## Getting Started
 
